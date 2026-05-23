@@ -1,1 +1,1 @@
-# pobieraczDanychGUGiK
+# pobieraczGranicAdministracyjnych
